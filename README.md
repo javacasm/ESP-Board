@@ -12,3 +12,5 @@ Ejemplo de placa de prototipo para ESP12 http://fritzing.org/projects/esp8266-es
 Diseño del Huzzah de Adafruit https://github.com/adafruit/Adafruit-Huzzah-ESP8266-Basic-Breakout-PCB
 
 https://cdn-learn.adafruit.com/assets/assets/000/048/352/original/adafruit_products_schem.png
+
+Diseño de OSHWi https://github.com/brico-labs/Oshwi_Badge_2017
